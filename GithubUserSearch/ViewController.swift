@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import Alamofire
+import SwiftyJSON
+import SDWebImage
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
     }
 
 
