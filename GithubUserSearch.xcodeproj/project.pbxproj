@@ -13,6 +13,7 @@
 		BC7CB87C2413F160005BEE41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC7CB87A2413F160005BEE41 /* Main.storyboard */; };
 		BC7CB87E2413F164005BEE41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC7CB87D2413F164005BEE41 /* Assets.xcassets */; };
 		BC7CB8812413F164005BEE41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC7CB87F2413F164005BEE41 /* LaunchScreen.storyboard */; };
+		BC7CB88A241540DA005BEE41 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC7CB889241540DA005BEE41 /* NextViewController.swift */; };
 		E2045F51C91F3DF6F951A593 /* Pods_GithubUserSearch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63CAD27E6D987B9A0F5AA562 /* Pods_GithubUserSearch.framework */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +29,7 @@
 		BC7CB87D2413F164005BEE41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC7CB8802413F164005BEE41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC7CB8822413F164005BEE41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC7CB889241540DA005BEE41 /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				BC7CB8742413F160005BEE41 /* AppDelegate.swift */,
 				BC7CB8762413F160005BEE41 /* SceneDelegate.swift */,
 				BC7CB8782413F160005BEE41 /* ViewController.swift */,
+				BC7CB889241540DA005BEE41 /* NextViewController.swift */,
 				BC7CB87A2413F160005BEE41 /* Main.storyboard */,
 				BC7CB87D2413F164005BEE41 /* Assets.xcassets */,
 				BC7CB87F2413F164005BEE41 /* LaunchScreen.storyboard */,
@@ -207,6 +210,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC7CB8792413F160005BEE41 /* ViewController.swift in Sources */,
+				BC7CB88A241540DA005BEE41 /* NextViewController.swift in Sources */,
 				BC7CB8752413F160005BEE41 /* AppDelegate.swift in Sources */,
 				BC7CB8772413F160005BEE41 /* SceneDelegate.swift in Sources */,
 			);
